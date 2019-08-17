@@ -6,14 +6,17 @@ Ipython部分之后补充，先用jupyter.
 
 # 1.2 jupyter
 
-Jupyter Notebook 原名Ipython Notebook，这是因为默认情况下Jupyter Notebook使用python内核。Jupyter Notebook本质是一个web应用程序，便于创建和共享程序文档，支持实时代码、数学方程、可视乎和markdown。在Jupyter Notebook中，代码可以实时生成图像、视频、LaTeX 和Javascript。
+Jupyter Notebook 原名Ipython Notebook，这是因为默认情况下Jupyter Notebook使用python内核。Jupyter Notebook本质是一个web应用程序，便于创建和共享程序文档，支持实时代码、数学方程、可视化和markdown。在Jupyter Notebook中，代码可以实时生成图像、视频、LaTeX 和Javascript。
 
 
 ### 1.2.1 快捷键 
 
 Jupyter在顶部菜单提供了快捷键列表：Help>Keyboard Shortcuts，几个常用的快捷键：
+
 ctrl + Enter > 运行整个单元格
+
 Alt + Enter  > 运行整个单元格并在下方添加新输入行
+
 ctrl + shift + F >打开命令选项板
 
 ### 1.2.2 内省
